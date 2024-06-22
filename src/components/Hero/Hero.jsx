@@ -12,9 +12,15 @@ export const Hero = () => {
           I'm a Web Developer with 1 year of experience using HTML, CSS, React
           MongoDB. Reach out if you'd like to learn more! 
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
+        <div>
+        <a href="mailto:harshdhiman1017@email.com" className={styles.contactBtn}>
           Contact Me
         </a>
+        <a href="\assets\hero\Resume 11.pdf" className={styles.contactBtn1}>
+          Download Cv
+        </a>
+        </div>
+        
       </div>
       <img
         src="/assets/about/developerImage.png"

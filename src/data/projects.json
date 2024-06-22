@@ -1,39 +1,40 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "/assets/projects/project.png",
+    "title": "Food Website",
+    "imageSrc": "/assets/projects/food.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": [
       "React",
-      "Express",
-      "Node"
+      "JavaScript",
+      "Html",
+      "CSS"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://food-website-theta-nine.vercel.app/",
+    "source": "https://github.com/dhimanharsh17/food-website"
   },
   {
-    "title": "Project B",
-    "imageSrc": "/assets/projects/project.png",
+    "title": "E-Commerce Website",
+    "imageSrc": "/assets/projects/ecom.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": [
       "React",
-      "Express",
-      "Node",
-      "Sass"
+      "Html",
+      "JavaScript",
+      "CSS"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://e-commerce-website-one-omega.vercel.app/",
+    "source": "https://github.com/dhimanharsh17/e-commerce-website"
   },
   {
-    "title": "Project C",
-    "imageSrc": "/assets/projects/project.png",
+    "title": "Quiz App",
+    "imageSrc": "/assets/projects/brain.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": [
-      "React",
-      "Express",
-      "Node"
+      "JavaScript",
+      "Html",
+      "CSS"
     ],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://quiz-app-beta-five.vercel.app/",
+    "source": "https://github.com/dhimanharsh17/quiz-app"
   }
 ]
